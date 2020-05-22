@@ -10,19 +10,6 @@
   line-height:normal;
   text-transform:none;
 }
-.box_1 {
-}
-.box_2 {
-}
-.ellipse {
-}
-.image {
-}
-.placeholder {
-}
-.primary_button {
-  color:#FFFFFF;
-}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -64,14 +51,7 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 .paragraph {
-  text-align:left;
-}
-.sticky_1 {
   text-align:left;
 }
 .form_hint {
@@ -79,21 +59,15 @@
 }
 .form_disabled {
 }
-.line {
+.box_1 {
+}
+.box_3 {
+}
+.image {
 }
 .icon {
 }
 .paragraph1 {
   text-align:left;
-}
-.heading_11 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
-.image1 {
-  color:#000000;
 }
 textarea, select, input, button { outline: none; }
